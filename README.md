@@ -56,7 +56,7 @@
 >   ```
 > * _Step 4_ : To install **Python3** and **PIP3**, run the "opstinstall-all.sh" with:
 >   ```bash
->   sudo sh opstinstall-all.sh
+>   sudo sh install.sh
 >   ```
 > * _Step 5_ : Run the "**SetupTool**" for install all _pip modules_ that you must have with:
 >   ```bash
