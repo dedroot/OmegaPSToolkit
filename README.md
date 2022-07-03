@@ -146,9 +146,7 @@ sudo opst -c
 sudo opst --console
 ```
 ## **Update**
-To download and install the latest version of opst, opstconsole, opstupdate, opstinstall, and opstsetup.
-
-Run the "opstupdate" with:
+To download and install the latest version of opst, opstconsole, opstupdate, opstinstall, and opstsetup. Run the "opstupdate" with:
 ```bash
 sudo opst -u
 # Or:
