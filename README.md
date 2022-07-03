@@ -41,7 +41,7 @@
                                  __/ |                                                                  
                                 |___/    
                                 
-                  OmegaPSToolkit ~ A massive penetration testing toolkit for penteser                                            
+                    OmegaPSToolkit ~ A massive penetration testing toolkit for penteser                                            
 
 </pre>
          
