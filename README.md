@@ -72,8 +72,6 @@
   <img src="https://img.shields.io/badge/Contributions-Open%20!-yellow?style=for-the-badge" alt="Contrinutions">
 </p>
 
-### _**A massive penetration testing toolkit**_
-
 # **Summary**
 - [**About OmegaPSToolkit**](https://github.com/MyMeepSQL/OmegaPSToolkit#about-omegapstoolkit)
 - [**Changelog**](https://github.com/MyMeepSQL/OmegaPSToolkit#changelogs)
