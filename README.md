@@ -40,6 +40,8 @@
     \____/  |_| |_| |_|  \___|  \__, |  \__,_| |_|      |_____/     |_|     \___/   \___/  |_| |_|  \__|
                                  __/ |                                                                  
                                 |___/    
+                                
+                               OmegaPSToolkit ~ A massive penetration testing toolkit for penteser
 
 </pre>
          
