@@ -1,36 +1,32 @@
 <!--
 
-#---[Metadata]--------------------------------------------------------------#
-#  Filename ~ README.MD                     [Update: 2022-05-29 | 12:13 AM] #
-#---[Info]------------------------------------------------------------------#
-#  {The OmegaPSToolkit is a product of PSociety™ by MyMeepSQL}              #
-#                                                                           #
-#  A long description of OmegaPSToolkit                                     #
-#                                                                           #
-#  Language  ~  Markdown                                                    #
-#---[Author]----------------------------------------------------------------#
-#  Thomas Pellissier ~ @MyMeepSQL                                           #
-#  Copyright (C) 2022 MyMeepSQL - © PSociety™, 2022 All rights reserved     #
-#---[Operating System]------------------------------------------------------#
-#  Developed for linux                                                      #
-#---[Licence]---------------------------------------------------------------#
-#  GNU General Public License v3.0                                          #
-#  -------------------------------                                          #
-#                                                                           #
-#  This program is free software; you can redistribute it and/or modify     #
-#  it under the terms of the GNU General Public License as published by     #
-#  the Free Software Foundation; either version 2 of the License, or        #
-#  (at your option) any later version.                                      #
-#                                                                           #
-#  This program is distributed in the hope that it will be useful,          #
-#  but WITHOUT ANY WARRANTY; without even the implied warranty of           #
-#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the             #
-#  GNU General Public License for more details.                             #
-#                                                                           #
-#  You should have received a copy of the GNU General Public License along  #
-#  with this program; if not, write to the Free Software Foundation, Inc.,  #
-#  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.              #
-#---------------------------------------------------------------------------#
+#---[Metadata]---------------------------------------------------------------#
+#  Filename ~ README.MD                   [Update: 2022-07-07 | 6:11  - PM]  #
+#---[Info]-------------------------------------------------------------------#
+#  A long description of OmegaPSToolkit                                      #
+#  Language  ~  Markdown                                                     #
+#---[Author]-----------------------------------------------------------------#
+#  Thomas Pellissier ~ @MyMeepSQL                                            #
+#  Copyright (C) 2021-2022 - © PSociety™ by MyMeepSQL. All rights reserved.  #
+#---[Operating System]-------------------------------------------------------#
+#  Developed for Linux                                                       #
+#---[Licence]----------------------------------------------------------------#
+#  GNU General Public License v3.0                                           #
+#  -------------------------------                                           #
+#  This program is free software; you can redistribute it and/or modify      #
+#  it under the terms of the GNU General Public License as published by      #
+#  the Free Software Foundation; either version 2 of the License, or         #
+#  (at your option) any later version.                                       #
+#                                                                            #
+#  This program is distributed in the hope that it will be useful,           #
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of            #
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the              #
+#  GNU General Public License for more details.                              #
+#                                                                            #
+#  You should have received a copy of the GNU General Public License along   #
+#  with this program; if not, write to the Free Software Foundation, Inc.,   #
+#  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.               #
+#----------------------------------------------------------------------------#
 
 -->
 
@@ -72,7 +68,10 @@
 >   - [**OPSTSetup**](https://github.com/MyMeepSQL/OmegaPSToolkit#opstsetup)
 >   - [**OPSTInstall-all**](https://github.com/MyMeepSQL/OmegaPSToolkit#opstinstall-all)
 > # **About OmegaPSToolkit**
-> _**`The OmegaPSToolkit is a product of PSociety™ by MyMeepSQL ! 2021-2022, All rights reserved.`**_
+> ```
+> The OmegaPSToolkit is a product of PSociety™ by MyMeepSQL!
+> Copyright (C) 2021-2022 © PSociety™. All rights reserved.
+> ```
 >
 >  **OmegaPSToolkit (OPST)** is a toolkit that brings together penetration testing tools such as wireless tools, web tools, password cracking tools, etc.
 > * **`Totally in development!`**
@@ -80,8 +79,8 @@
 > * This tool is for educational purposes only, the use of **OmegaPSToolkit** on a target without its consent is totally **illegal!** I will not take any responsibility if this program is used explicitly
 > 
 > ## **Changelogs**
-> All new changes compared to all _**OPSTs'**_ commands can be found _[here](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)_.
-> ## **License**
+> All new changes compared to _**OmegaPSToolkit**_ can be found _[here](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)_.
+> ## **Licence**
 > This program uses the license _[General Public License v3.0](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/LICENSE)_.
 > ## **Features**
 > The tools will be categorized as:
