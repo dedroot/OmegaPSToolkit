@@ -1,7 +1,7 @@
 <!--
 
 #---[Metadata]---------------------------------------------------------------#
-#  Filename ~ README.MD                   [Update: 2022-07-07 | 6:11  - PM]  #
+#  Filename ~ README.MD                   [Update: 2022-07-04 | 12:03 - AM]  #
 #---[Info]-------------------------------------------------------------------#
 #  A long description of OmegaPSToolkit                                      #
 #  Language  ~  Markdown                                                     #
@@ -60,7 +60,7 @@
   <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opstinstall%20version-v2.2-success?style=for-the-badge" alt="opstinstall's version"></a>
 </p>
 <p align="center">
- <img src="https://img.shields.io/badge/Release's%20 status-In%20Development-yellow?style=for-the-badge" alt="Release status">
+ <img src="https://img.shields.io/badge/Release%20 status-In%20Development-yellow?style=for-the-badge" alt="Release status">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Supported%20OS-Linux-brightgreen?style=for-the-badge" alt="Supported OS">
