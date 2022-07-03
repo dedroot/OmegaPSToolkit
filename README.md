@@ -30,8 +30,8 @@
 
 -->
 
-
 # **OmegaPSToolkit**
+----
  <pre>     ____                                       _____     _____   _______                _   _   _   
     / __ \                                     |  __ \   / ____| |__   __|              | | (_) | |  
    | |  | |  _ __ ___     ___    __ _    __ _  | |__) | | (___      | |   ___     ___   | |  _  | |_ 
@@ -44,7 +44,9 @@
                     OmegaPSToolkit ~ A massive penetration testing toolkit for penteser
 
 </pre>
-         
+
+----
+
 <p align="center">
   <a href="https://github.com/MyMeepSQL"><img src="https://img.shields.io/badge/Made%20by-Thomas%20Pellissier-informational?style=for-the-badge" alt="Made by"></a>
   <a href="https://github.com/MyMeepSQL"><img src="https://img.shields.io/badge/Codename-MyMeepSQL-informational?style=for-the-badge" alt="Codename"></a>
@@ -72,6 +74,8 @@
   <img src="https://img.shields.io/badge/Contributions-Open%20!-yellow?style=for-the-badge" alt="Contrinutions">
 </p>
 
+----
+
 # **Summary**
 - [**About OmegaPSToolkit**](https://github.com/MyMeepSQL/OmegaPSToolkit#about-omegapstoolkit)
   - [**Changelog**](https://github.com/MyMeepSQL/OmegaPSToolkit#changelogs)
@@ -87,6 +91,9 @@
   - [**OPSTUpdate**](https://github.com/MyMeepSQL/OmegaPSToolkit#opstupdate)
   - [**OPSTSetup**](https://github.com/MyMeepSQL/OmegaPSToolkit#opstsetup)
   - [**OPSTInstall**](https://github.com/MyMeepSQL/OmegaPSToolkit#opstinstall)
+
+----
+
 # **About OmegaPSToolkit**
 ```
              The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL!
@@ -163,6 +170,8 @@ opst -i
 opst --info
 ```
 
+----
+
 # Tool overview
 ## OPSTConsole
 
@@ -182,3 +191,5 @@ opst --info
 
 ## OPSTInstall
 ![opstupdate](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/test_v1/omegapstoolkit/screens/opstinstall-all.png)
+
+----
