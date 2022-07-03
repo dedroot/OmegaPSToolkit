@@ -32,20 +32,46 @@
 
 
 # **OmegaPSToolkit**
-> [![MadeBy](https://img.shields.io/badge/Made%20by-Thomas%20Pellissier-informational?style=flat-square)](https://github.com/MyMeepSQL)
-[![Codename](https://img.shields.io/badge/Codename-MyMeepSQL-informational?style=flat-square)](https://github.com/MyMeepSQL)
-[![Owner](https://img.shields.io/badge/Owner-©%20PSociety™-informational?style=flat-square)](https://github.com/PentestSociety-PSociety)
-[![opstconsole_version](https://img.shields.io/badge/opstconsole%20version-v0.0.1.8-brightgreen?style=flat-square)](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)
-[![opstconsole_cli_Version](https://img.shields.io/badge/opstconsole_CLI%20Version%20[BETA]-v0.0.1.5-red?style=flat-square)](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)
-[![opsthelp_version](https://img.shields.io/badge/opsthelp%20version-v3.0-success?style=flat-square)](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)
-[![opstsetup_version](https://img.shields.io/badge/opstsetup%20version-v2.6-success?style=flat-square)](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)
-[![opstupdate_version](https://img.shields.io/badge/opstupdate%20version-v2.9-success?style=flat-square)](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)
-[![opstinstall-all_version](https://img.shields.io/badge/opstinstall%20version-v2.2-success?style=flat-square)](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)
-[![Release](https://img.shields.io/badge/Release-In%20Development-yellow?style=flat-square)]()
-[![Supported OS](https://img.shields.io/badge/Supported%20OS-Linux-brightgreen?style=flat-square)]()
-[![Licence](https://img.shields.io/badge/License-GNU%20GPL--3.0-important?style=flat-square)](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/LICENSE)
-![Contrinutions](https://img.shields.io/badge/Contributions-Open%20!-yellow?style=flat-square)
-> > ### _**A massive penetration testing toolkit**_
+ <pre>
+                 ██████╗ ███╗   ███╗███████╗ ██████╗  █████╗ ██████╗ ███████╗████████╗ ██████╗  ██████╗ ██╗     ██╗████████╗
+                ██╔═══██╗████╗ ████║██╔════╝██╔════╝ ██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔═══██╗██║     ██║╚══██╔══╝
+                ██║   ██║██╔████╔██║█████╗  ██║  ███╗███████║██████╔╝███████╗   ██║   ██║   ██║██║   ██║██║     ██║   ██║   
+                ██║   ██║██║╚██╔╝██║██╔══╝  ██║   ██║██╔══██║██╔═══╝ ╚════██║   ██║   ██║   ██║██║   ██║██║     ██║   ██║   
+                ╚██████╔╝██║ ╚═╝ ██║███████╗╚██████╔╝██║  ██║██║     ███████║   ██║   ╚██████╔╝╚██████╔╝███████╗██║   ██║   
+                 ╚═════╝ ╚═╝     ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚══════╝   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚═╝   ╚═╝ 
+
+</pre>
+         
+<blockquote>
+<p align="center">
+  <a href="https://github.com/MyMeepSQL"><img src="https://img.shields.io/badge/Made%20by-Thomas%20Pellissier-informational?style=for-the-badge" alt="Made by"></a>
+  <a href="https://github.com/MyMeepSQL"><img src="https://img.shields.io/badge/Codename-MyMeepSQL-informational?style=for-the-badge" alt="Codename"></a>
+  <a href="https://github.com/PentestSociety-PSociety"><img src="https://img.shields.io/badge/Owner-©%20PSociety™-informational?style=for-the-badge" alt="Owner"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opst%20(the%20main%20command)%20version-0.0.1.8-brightgreen?style=for-the-badge" alt="opst's version"></a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opstconsole%20version-0.0.1.8-brightgreen?style=for-the-badge" alt="opstconsole's version"></a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opstconsole_CLI%20Version%20[BETA]-v0.0.1.5-red?style=for-the-badge" alt="opstconsole CLI's version"></a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opstinfo%20version-v3.0-success?style=for-the-badge" alt="opstinfo's version"></a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opstsetup%20version-v2.6-success?style=for-the-badge" alt="opstsetup's version"></a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opstupdate%20version-v2.9-success?style=for-the-badge" alt="opstupdate's version"></a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opstinstall%20version-v2.2-success?style=for-the-badge" alt="opstinstall's version"></a>
+</p>
+<p align="center">
+ <img src="https://img.shields.io/badge/Release's%20 status-In%20Development-yellow?style=for-the-badge" alt="Release status">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Supported%20OS-Linux-brightgreen?style=for-the-badge" alt="Supported OS">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Licence-GNU%20GPL--3.0-important?style=for-the-badge" alt="Licence">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-Open%20!-yellow?style=for-the-badge" alt="Contrinutions">
+</p>
+</blockquote>
+
+>> ### _**A massive penetration testing toolkit**_
 > 
 > # **Summary**
 > - [**About OmegaPSToolkit**](https://github.com/MyMeepSQL/OmegaPSToolkit#about-omegapstoolkit)
