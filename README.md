@@ -134,7 +134,8 @@ python3 opst.py -i
 python3 opst.py --install
 ## Once installed, you can run the 'opst' command anywhere in the terminal.
 
-# To install all PIP's packages and install the OmegaPSToolkit package, run (you can run OPST anywhere (tell me if a problem appears):
+# To install all PIP's packages and install the OmegaPSToolkit package, 
+# run (you can run OPST anywhere (tell me if a problem appears):
 sudo opst -s
 ## Or:
 sudo opst --setup
