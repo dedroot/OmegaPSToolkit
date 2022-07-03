@@ -30,10 +30,11 @@
 
 -->
 
+
 # **OmegaPSToolkit**
 > [![MadeBy](https://img.shields.io/badge/Made%20by-Thomas%20Pellissier-informational?style=flat-square)](https://github.com/MyMeepSQL)
 [![Codename](https://img.shields.io/badge/Codename-MyMeepSQL-informational?style=flat-square)](https://github.com/MyMeepSQL)
-[![Owner](https://img.shields.io/badge/Owner-©%20PSociety™-informational?style=flat-square)](https://github.com/MyMeepSQL)
+[![Owner](https://img.shields.io/badge/Owner-©%20PSociety™-informational?style=flat-square)](https://github.com/PentestSociety-PSociety)
 [![opstconsole_version](https://img.shields.io/badge/opstconsole%20version-v0.0.1.8-brightgreen?style=flat-square)](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)
 [![opstconsole_cli_Version](https://img.shields.io/badge/opstconsole_CLI%20Version%20[BETA]-v0.0.1.5-red?style=flat-square)](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)
 [![opsthelp_version](https://img.shields.io/badge/opsthelp%20version-v3.0-success?style=flat-square)](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)
@@ -43,7 +44,7 @@
 [![Release](https://img.shields.io/badge/Release-In%20Development-yellow?style=flat-square)]()
 [![Supported OS](https://img.shields.io/badge/Supported%20OS-Linux-brightgreen?style=flat-square)]()
 [![Licence](https://img.shields.io/badge/License-GNU%20GPL--3.0-important?style=flat-square)](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/LICENSE)
-[![Contrinutions](https://img.shields.io/badge/Contributions-Open%20!-yellow?style=flat-square)]()
+![Contrinutions](https://img.shields.io/badge/Contributions-Open%20!-yellow?style=flat-square)
 > > ### _**A massive penetration testing toolkit**_
 > 
 > # **Summary**
