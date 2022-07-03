@@ -35,6 +35,7 @@
 -->
 
 # **Changelogs**
+----
  <pre>     ____                                       _____     _____   _______                _   _   _   
     / __ \                                     |  __ \   / ____| |__   __|              | | (_) | |  
    | |  | |  _ __ ___     ___    __ _    __ _  | |__) | | (___      | |   ___     ___   | |  _  | |_ 
@@ -47,7 +48,7 @@
                     OmegaPSToolkit ~ A massive penetration testing toolkit for penteser
 
 </pre>
-         
+----
 <p align="center">
   <a href="https://github.com/MyMeepSQL"><img src="https://img.shields.io/badge/Made%20by-Thomas%20Pellissier-informational?style=for-the-badge" alt="Made by"></a>
   <a href="https://github.com/MyMeepSQL"><img src="https://img.shields.io/badge/Codename-MyMeepSQL-informational?style=for-the-badge" alt="Codename"></a>
@@ -74,6 +75,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions-Open%20!-yellow?style=for-the-badge" alt="Contrinutions">
 </p>
+
+----
 
  # The changlogs of OmegaPSToolkit
  ## **OPSTconsole CLI** ```BETA```
@@ -128,3 +131,5 @@
  * v1.8       |   (2022-03-26 | 9:47  PM)        Upgrade opstinstall-all.
  * v1.4       |   (2022-03-17 | 1:12  PM)        Fix opstinstall-all.
  * v0.1       |   (2022-03-09 | 2:38  PM)        Create OPSTInstall-all.
+
+----
