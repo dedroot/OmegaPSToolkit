@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://github.com/MyMeepSQL"><img src="https://img.shields.io/badge/Made%20by-Thomas%20Pellissier-informational?style=for-the-badge" alt="Made by"></a>
-  <a href="https://github.com/MyMeepSQL"><img src="https://img.shields.io/badge/Codename-MyMeepSQL-informational?style=for-the-badge" alt="Codename"></a>
+  <a href="https://github.com/MyMeepSQL"><img src="https://img.shields.io/badge/Codename-MyMeepSQL%20/%20th300905-informational?style=for-the-badge" alt="Codename"></a>
   <a href="https://github.com/PentestSociety-PSociety"><img src="https://img.shields.io/badge/Owner-©%20PSociety™-informational?style=for-the-badge" alt="Owner"></a>
 </p>
 <p align="center">
@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Supported%20OS-Linux-brightgreen?style=for-the-badge" alt="Supported OS">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Licence-GNU%20GPL--3.0-important?style=for-the-badge" alt="Licence">
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/test_v1/LICENSE"><img src="https://img.shields.io/badge/Licence-GNU%20GPL--3.0-important?style=for-the-badge" alt="Licence"></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions-Open%20!-yellow?style=for-the-badge" alt="Contrinutions">
@@ -77,21 +77,21 @@
 ----
 
 # **Summary**
-- [**About OmegaPSToolkit**](https://github.com/MyMeepSQL/OmegaPSToolkit#about-omegapstoolkit)
-  - [**Credit**](https://github.com/MyMeepSQL/OmegaPSToolkit#Credit)
-  - [**Changelog**](https://github.com/MyMeepSQL/OmegaPSToolkit#changelogs)
-  - [**License**](https://github.com/MyMeepSQL/OmegaPSToolkit#license)
-  - [**Features**](https://github.com/MyMeepSQL/OmegaPSToolkit#features)
-  - [**Installation**](https://github.com/MyMeepSQL/OmegaPSToolkit#installation)
-  - [**Update**](https://github.com/MyMeepSQL/OmegaPSToolkit#update)
-  - [**Help**](https://github.com/MyMeepSQL/OmegaPSToolkit#help)
-- [**Overview**](https://github.com/MyMeepSQL/OmegaPSToolkit#tool-overview)
-  - [**OPSTConsole**](https://github.com/MyMeepSQL/OmegaPSToolkit#opstconsole)
-  - [**OPSTConsole CLI**](https://github.com/MyMeepSQL/OmegaPSToolkit#opstconsole-cli)
-  - [**OPSTInfo**](https://github.com/MyMeepSQL/OmegaPSToolkit#opstinfo)
-  - [**OPSTUpdate**](https://github.com/MyMeepSQL/OmegaPSToolkit#opstupdate)
-  - [**OPSTSetup**](https://github.com/MyMeepSQL/OmegaPSToolkit#opstsetup)
-  - [**OPSTInstall**](https://github.com/MyMeepSQL/OmegaPSToolkit#opstinstall)
+- [**About OmegaPSToolkit**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#about-omegapstoolkit)
+  - [**Credit**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#Credit)
+  - [**Changelog**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#changelogs)
+  - [**License**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#license)
+  - [**Features**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#features)
+  - [**Installation**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#installation)
+  - [**Update**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#update)
+  - [**Help**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#help)
+- [**Overview**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#tool-overview)
+  - [**OPSTConsole**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#opstconsole)
+  - [**OPSTConsole CLI**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#opstconsole-cli)
+  - [**OPSTInfo**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#opstinfo)
+  - [**OPSTUpdate**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#opstupdate)
+  - [**OPSTSetup**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#opstsetup)
+  - [**OPSTInstall**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/test_v1#opstinstall)
 
 ----
 
@@ -109,7 +109,7 @@
 ## **Credit**
 This tool has been created and designed from scratch by *Thomas Pellissier aka MyMeepSQL / th300905*.
 ## **Changelogs**
-All new changes compared to _**OmegaPSToolkit**_ can be found _[here](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)_.
+All new changes compared to _**OmegaPSToolkit**_ can be found _[here](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/test_v1/CHANGLOG.md)_.
 ## **Licence**
 OmegaPSToolkit is licensed under the GNU General Public License v3.0 license. Refer to [LICENSE](LICENSE) for more information.
 ## **Features**
@@ -168,8 +168,6 @@ sudo opst --update
 If you want all informations about OmegaPSToolkit and authors' and with other information like the version of each command, what is your OS and other informations.
 Run the "opstinfo" with:
 ```bash
-opst -i
-# Or
 opst --info
 ```
 
