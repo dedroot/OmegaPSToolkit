@@ -1,16 +1,16 @@
 <!--
 
 #---[Metadata]--------------------------------------------------------------#
-#  Filename ~ CHANGLOG.MD                   [Update: 2022-05-29 | 12:13 AM] #
+#  Filename ~ CHANGLOG.MD                [Update: 2022-07-06 | 10:40 - PM]  #
 #---[Info]------------------------------------------------------------------#
 #  {The OmegaPSToolkit is a product of PSociety™ by MyMeepSQL}              #
 #                                                                           #
-#  All change of wich "opst" commands                                       #
+#  All change of wich 'opst' commands                                       #
 #                                                                           #
 #  Language  ~  Markdown                                                    #
 #---[Author]----------------------------------------------------------------#
-#  Thomas Pellissier ~ @MyMeepSQL                                           #
-#  Copyright (C) 2022 MyMeepSQL - © PSociety™, 2022 All rights reserved     #
+#  Thomas Pellissier ~ @MyMeepSQL / @th300905                               #
+#  Copyright (C) 2022 - © PSociety™, All rights reserved                    #
 #---[Operating System]------------------------------------------------------#
 #  Developed for linux                                                      #
 #---[Licence]---------------------------------------------------------------#
@@ -48,10 +48,12 @@
                     OmegaPSToolkit ~ A massive penetration testing toolkit for penteser
 
 </pre>
+
 ----
+
 <p align="center">
   <a href="https://github.com/MyMeepSQL"><img src="https://img.shields.io/badge/Made%20by-Thomas%20Pellissier-informational?style=for-the-badge" alt="Made by"></a>
-  <a href="https://github.com/MyMeepSQL"><img src="https://img.shields.io/badge/Codename-MyMeepSQL-informational?style=for-the-badge" alt="Codename"></a>
+  <a href="https://github.com/MyMeepSQL"><img src="https://img.shields.io/badge/Codename-MyMeepSQL%20/%20th300905-informational?style=for-the-badge" alt="Codename"></a>
   <a href="https://github.com/PentestSociety-PSociety"><img src="https://img.shields.io/badge/Owner-©%20PSociety™-informational?style=for-the-badge" alt="Owner"></a>
 </p>
 <p align="center">
@@ -70,7 +72,7 @@
   <img src="https://img.shields.io/badge/Supported%20OS-Linux-brightgreen?style=for-the-badge" alt="Supported OS">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Licence-GNU%20GPL--3.0-important?style=for-the-badge" alt="Licence">
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/test_v1/LICENSE"><img src="https://img.shields.io/badge/Licence-GNU%20GPL--3.0-important?style=for-the-badge" alt="Licence"></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions-Open%20!-yellow?style=for-the-badge" alt="Contrinutions">
