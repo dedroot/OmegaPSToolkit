@@ -78,6 +78,7 @@
 
 # **Summary**
 - [**About OmegaPSToolkit**](https://github.com/MyMeepSQL/OmegaPSToolkit#about-omegapstoolkit)
+  - [**Credit**](https://github.com/MyMeepSQL/OmegaPSToolkit#Credit)
   - [**Changelog**](https://github.com/MyMeepSQL/OmegaPSToolkit#changelogs)
   - [**License**](https://github.com/MyMeepSQL/OmegaPSToolkit#license)
   - [**Features**](https://github.com/MyMeepSQL/OmegaPSToolkit#features)
@@ -105,10 +106,12 @@
 * Can only be run on **Linux machine**
 * This tool is for educational purposes only, the use of **OmegaPSToolkit** on a target without its consent is totally **illegal!** I will not take any responsibility if this program is used explicitly
 
+## **Credit**
+This tool has been created and designed from scratch by *Thomas Pellissier aka MyMeepSQL / th300905*.
 ## **Changelogs**
 All new changes compared to _**OmegaPSToolkit**_ can be found _[here](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md)_.
 ## **Licence**
-This program uses the _[General Public License v3.0](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/LICENSE)_ licence .
+OmegaPSToolkit is licensed under the GNU General Public License v3.0 license. Refer to [LICENSE](LICENSE) for more information.
 ## **Features**
 The tools will be categorized as:
 * Scanning tools,
