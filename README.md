@@ -53,7 +53,7 @@
   <a href="https://github.com/PentestSociety-PSociety"><img src="https://img.shields.io/badge/Owner-©%20PSociety™-informational?style=for-the-badge" alt="Owner"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opst%20(the%20main%20command)%20version-0.0.0.78-brightgreen?style=for-the-badge" alt="opst's version"></a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opst%20(CLA,%20Command%20Line%20Arguments)%20(the%20main%20command)%20version-0.0.0.78-brightgreen?style=for-the-badge" alt="opst's version"></a>
   <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opstconsole%20version-0.0.1.8-brightgreen?style=for-the-badge" alt="opstconsole's version"></a>
   <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opstconsole_CLI%20Version%20[BETA]-v0.0.1.5-red?style=for-the-badge" alt="opstconsole CLI's version"></a>
   <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"><img src="https://img.shields.io/badge/opstinfo%20version-v3.0-success?style=for-the-badge" alt="opstinfo's version"></a>
