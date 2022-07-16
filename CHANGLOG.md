@@ -1,7 +1,7 @@
 <!--
 
 #---[Metadata]--------------------------------------------------------------#
-#  Filename ~ CHANGLOG.MD                [Update: 2022-07-16 | 7:06  - PM]  #
+#  Filename ~ CHANGLOG.MD                [Update: 2022-07-16 | 7:15  - PM]  #
 #---[Info]------------------------------------------------------------------#
 #  {The OmegaPSToolkit is a product of PSociety™ by MyMeepSQL}              #
 #                                                                           #
@@ -34,7 +34,6 @@
 
 -->
 
-# **Changelogs**
 ----
  <pre>     ____                                       _____     _____   _______                _   _   _   
     / __ \                                     |  __ \   / ____| |__   __|              | | (_) | |  
@@ -81,12 +80,16 @@
 ----
 
  # The changlogs of OmegaPSToolkit
- ## **OPSTconsole CLI** ```BETA```
+ ## **opst (CLA, Command Line Arguments) (The main command)**
+ * v0.0.0.78  |   (2022-07-03 | 1:25  AM)        Add more options.
+ * v0.0.0.1   |   (2022-06-10 | 6:32  PM)        Creation of a command line argument tool for easier use OmegaPSToolkit.
+
+ ## **opstconsole CLI** ```BETA```
  * v0.0.1.5   |   (2022-05-20 | 10:18 AM)        Add more usufull commands, make the help message of all command and make the "man" help of all commands too.
  * v0.0.0.9   |   (2022-04-05 | 1:33  PM)        Make the base of OPSTConsole CLI with a loop for interactive shell like Terminal or Powershell.
  * v0.0.0.4   |   (2022-03-10 | 10:35 AM)        Create a CLI version of OPSTConsole directly include into it.
  
- ## **OPSTConsole**
+ ## **opstconsole**
  * v0.0.1.8   |   (2022.05.29 | 12:03 AM)        Organization of functions in the "functions" directory (all functions are now in the "functions" directory in a separate file).
 
  * v0.0.1.3   |   (2022-03-13 | 2:40  PM)        Fix import error from OmegaDSToolkit.
@@ -111,24 +114,24 @@
  
  * v0.0.0.1  -  Creation of DS-Toolbox (the first name before OmegaPSToolkit).
  
- ## **OPSTHelp**
+ ## **opsthelp**
  * v3.0       |   (2022-05-20 | 10:18 AM)        Add more informations about system.
  * v1.65      |   (2022-04-16 | 2:31  AM)        Add more inforations.
  * v1.4       |   (2022-03-26 | 9:47  PM)        Upgrade opsthelp.
  * v0.7       |   (2022-03-20 | 4:12  PM)        Create OPSTHelp.
  
- ## **OPSTSetup**
+ ## **opstsetup**
  * v2.6       |   (2022-03-26 | 9:47  PM)        Upgrade opstsetup.
  * v1.1       |   (2022-03-10 | 12:22 PM)        Fix opstsetup.
  * v0.1       |   (2022-03-10 | 12:22 PM)        Create opstsetup.
  
- ## **OPSTUpdate**
+ ## **opstupdate**
  * v2.9       |   (2022-04-14 | 10:26 AM)        Fix a big issue.
  * v2.2       |   (2022-03-20 | 9:47  PM)        Upgrade opstupdate.
  * v1.4       |   (2022-03-20 | 5:31  PM)        Fix opstupdate.
  * v0.3       |   (2022-03-09 | 10:09 AM)        Add a update file for install the latest version of OPSTConsole, OPSTHelp, OPSTSetup and OPSTInstall-all.
  
- ## **OPSTInstall**
+ ## **opstinstall**
  * v2.2       |   (2022-04-14 | 10:26 AM)        Fix issues.
  * v1.8       |   (2022-03-26 | 9:47  PM)        Upgrade opstinstall-all.
  * v1.4       |   (2022-03-17 | 1:12  PM)        Fix opstinstall-all.
