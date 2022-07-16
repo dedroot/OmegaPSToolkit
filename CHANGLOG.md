@@ -1,7 +1,7 @@
 <!--
 
 #---[Metadata]--------------------------------------------------------------#
-#  Filename ~ CHANGLOG.MD                [Update: 2022-07-16 | 7:15  - PM]  #
+#  Filename ~ CHANGLOG.MD                [Update: 2022-07-16 | 7:20  - PM]  #
 #---[Info]------------------------------------------------------------------#
 #  {The OmegaPSToolkit is a product of PSociety™ by MyMeepSQL}              #
 #                                                                           #
@@ -80,11 +80,11 @@
 ----
 
  # The changlogs of OmegaPSToolkit
- ## **opst (CLA, Command Line Arguments) (The main command)**
+ ## **opst CLA (Command Line Arguments)** ```(The main command)```
  * v0.0.0.78  |   (2022-07-03 | 1:25  AM)        Add more options.
  * v0.0.0.1   |   (2022-06-10 | 6:32  PM)        Creation of a command line argument tool for easier use OmegaPSToolkit.
 
- ## **opstconsole CLI** ```BETA```
+ ## **opstconsole CLI (Command Line Interpreter)** ```BETA```
  * v0.0.1.5   |   (2022-05-20 | 10:18 AM)        Add more usufull commands, make the help message of all command and make the "man" help of all commands too.
  * v0.0.0.9   |   (2022-04-05 | 1:33  PM)        Make the base of OPSTConsole CLI with a loop for interactive shell like Terminal or Powershell.
  * v0.0.0.4   |   (2022-03-10 | 10:35 AM)        Create a CLI version of OPSTConsole directly include into it.
