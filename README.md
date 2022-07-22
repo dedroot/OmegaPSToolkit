@@ -1,7 +1,7 @@
 <!--
 
 #---[Metadata]---------------------------------------------------------------#
-#  Filename ~ README.MD                   [Update: 2022-07-22 | 10:36 - PM]  #
+#  Filename ~ README.MD                   [Update: 2022-07-22 | 10:40 - PM]  #
 #---[Info]-------------------------------------------------------------------#
 #  A long description of OmegaPSToolkit                                      #
 #  Language  ~  Markdown                                                     #
@@ -112,14 +112,14 @@
 
 # **Summary**
 - [**About OmegaPSToolkit**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#about-omegapstoolkit)
-  - [**Credit**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#Credit)
+  - [**Credit & Copyrights**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#credit--copyrights)
   - [**Changelog**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#changelogs)
   - [**License**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#license)
   - [**Features**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#features)
   - [**Installation**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#installation)
   - [**Options of opst**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#options-of-opst)
   - [**Update**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#update)
-  - [**Help**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#help)
+  - [**Info**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#information-about-omegapstoolkit)
 - [**Overview**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#tool-overview)
   - [**OPSTConsole**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#opstconsole)
   - [**OPSTConsole CLI**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#opstconsole-cli)
@@ -135,7 +135,6 @@
 * **`Totally in development!`**
 * Can only be run on **Linux machine**
 * This tool is for educational purposes only, the use of **OmegaPSToolkit** on a target without its consent is totally **illegal!** I will not take any responsibility if this program is used explicitly
-
 ## **Credit & Copyrights**
 ```
          The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL / th300905!
@@ -159,7 +158,6 @@ The tools will be categorized as:
 * Exploitation Tools,
 * UTools (UsefullTools made by me),
 * _**And more**_
-
 ## **Installation**
 Instructions to install OmegaPSToolkit... (Linux commands)
 ```bash
