@@ -47,6 +47,8 @@
 
 ----
 
+
+  
 <p align="center">
   <a href="https://github.com/MyMeepSQL">
     <img src="https://img.shields.io/badge/Made%20by-Thomas%20Pellissier-informational?style=for-the-badge" alt="Made by">
@@ -55,7 +57,7 @@
     <img src="https://img.shields.io/badge/Codename-MyMeepSQL%20/%20th300905-informational?style=for-the-badge" alt="Codename">
   </a>
   <a href="https://github.com/PentestSociety-PSociety">
-    <img src="https://img.shields.io/badge/Owner-©%20PSociety™-informational?style=for-the-badge" alt="Owner">
+    <img src="https://img.shields.io/badge/Owner-©%20PSociety™%20(MyMeepSQL)-informational?style=for-the-badge" alt="Owner">
   </a>
 </p>
 
@@ -84,6 +86,21 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/stargazers">
+    <img src="https://img.shields.io/github/stars/MyMeepSQL/OmegaPSToolkit?style=for-the-badge&color=orange" alt="Stars">
+  </a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/network/members">
+    <img src="https://img.shields.io/github/forks/MyMeepSQL/OmegaPSToolkit?color=cyan&style=for-the-badge&color=purple" alt="Forks">
+  </a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/watchers">
+    <img src="https://img.shields.io/github/watchers/MyMeepSQL/OmegaPSToolkit?color=cyan&style=for-the-badge&color=purple" alt="Watchers">
+  </a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/issues">
+    <img src="https://img.shields.io/github/issues/MyMeepSQL/OmegaPSToolkit?color=red&style=for-the-badge" alt="Issues">
+  </a>
+</p>
+
+<p align="center">
  <img src="https://img.shields.io/badge/Release%20 status-In%20Development-yellow?style=for-the-badge" alt="Release status">
  <img src="https://img.shields.io/badge/Supported%20OS-Linux-brightgreen?style=for-the-badge" alt="Supported OS">
  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/test_v1/LICENSE">
@@ -104,6 +121,7 @@
   - [**License**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#license)
   - [**Features**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#features)
   - [**Installation**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#installation)
+  - [**Options of opst**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#Options of opst)
   - [**Update**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#update)
   - [**Help**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#help)
 - [**Overview**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#tool-overview)
@@ -176,6 +194,33 @@ sudo opst -c
 ## Or:
 sudo opst --console
 ```
+## Options of *opst*
+All option avalable for the **opst** command (the main comand):
+```
+ ______  ______ _______ _______   OmegaPSToolkit CLA version: 0.0.0.78
+|       |   __ \     __|_     _|  Coded by MyMeepSQL for © PSociety™
+|   -   |    __/__     | |   |    A massive penetration testing toolkit
+|_______|___|  |_______| |___|    https://github.com/MyMeepSQL/OmegaPSToolkit
+
+Usage: opst [--help] [OPTION] [-h]
+
+Options:
+  -i, --install                                               install all depencies for OmegaPSToolkit (opstinstall).
+  -s, --setup                                                 install all PIP package for OmegaPSToolkit (opstsetup)
+  -c, --console                                               start the console (opstconsole)
+  -u, --update                                                update OmegaPSToolkit (opstupdate)
+
+Additional options:
+  -y, --yes                                                   don't ask for confirmation for update or install
+  -q, --quiet                                                 prevent header from displaying
+
+Information options:
+  --info [low|full]                                           show some information about OmegaPSToolkit and exit (opstinfo) (default: low)
+  -h                                                          show more help for each option and exit
+  --help                                                      show this help message and exit
+  --version [main|console|cli|install|update|setup|info|all]  show program's version and exit (default: main)
+  ```
+ 
 ## **Update**
 To download and install the latest version of opst, opstconsole, opstupdate, opstinstall, and opstsetup. 
 
