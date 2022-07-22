@@ -121,7 +121,7 @@
   - [**License**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#license)
   - [**Features**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#features)
   - [**Installation**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#installation)
-  - [**Options of opst**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#Options of opst)
+  - [**Options of opst**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#options-of-opst=)
   - [**Update**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#update)
   - [**Help**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#help)
 - [**Overview**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#tool-overview)
@@ -135,18 +135,18 @@
 ----
 
 # **About OmegaPSToolkit**
-```
-             The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL!
-                        Copyright (C) 2021-2022 © PSociety™. All rights reserved.
-```
-
 **OmegaPSToolkit (OPST)** is a toolkit that brings together penetration testing tools such as wireless tools, web tools, password cracking tools, etc.
 * **`Totally in development!`**
 * Can only be run on **Linux machine**
 * This tool is for educational purposes only, the use of **OmegaPSToolkit** on a target without its consent is totally **illegal!** I will not take any responsibility if this program is used explicitly
 
-## **Credit**
-This tool has been created and designed from scratch by *Thomas Pellissier aka MyMeepSQL / th300905*.
+## **Credit & Copyrights**
+```
+             The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL!
+                        Copyright (C) 2021-2022 © PSociety™. All rights reserved.
+
+This tool has been created and designed from scratch by Thomas Pellissier aka MyMeepSQL / th300905.
+```
 ## **Changelogs**
 All new changes compared to _**OmegaPSToolkit**_ can be found _[here](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/test_v1/CHANGLOG.md)_.
 ## **License**
