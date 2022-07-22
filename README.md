@@ -1,7 +1,7 @@
 <!--
 
 #---[Metadata]---------------------------------------------------------------#
-#  Filename ~ README.MD                   [Update: 2022-07-22 | 10:33 - PM]  #
+#  Filename ~ README.MD                   [Update: 2022-07-22 | 10:36 - PM]  #
 #---[Info]-------------------------------------------------------------------#
 #  A long description of OmegaPSToolkit                                      #
 #  Language  ~  Markdown                                                     #
@@ -138,9 +138,9 @@
 
 ## **Credit & Copyrights**
 ```
-         The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL / th300905!                         
-                         Copyright (C) 2021-2022 © PSociety™. All rights reserved.   
-                         
+         The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL / th300905!
+                         Copyright (C) 2021-2022 © PSociety™. All rights reserved.
+
      This tool has been created and designed from scratch by Thomas Pellissier aka MyMeepSQL / th300905.
 ```
 ## **Changelogs**
