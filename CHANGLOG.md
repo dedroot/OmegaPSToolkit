@@ -1,7 +1,7 @@
 <!--
 
 #---[Metadata]--------------------------------------------------------------#
-#  Filename ~ CHANGLOG.MD                [Update: 2022-07-22 | 10:41 - PM]  #
+#  Filename ~ CHANGLOG.MD                [Update: 2022-07-22 | 10:43 - PM]  #
 #---[Info]------------------------------------------------------------------#
 #  {The OmegaPSToolkit is a product of PSociety™ by MyMeepSQL}              #
 #                                                                           #
@@ -115,7 +115,7 @@
 
 ----
 
- # The changlogs of OmegaPSToolkit
+ # The changelog of OmegaPSToolkit
  ## **opst CLA (Command Line Arguments)** ```(The main command)```
  * v0.0.0.78  |   (2022-07-03 | 1:25  AM)        Add more options.
  * v0.0.0.1   |   (2022-06-10 | 6:32  PM)        Creation of a command line argument tool for easier use OmegaPSToolkit.
