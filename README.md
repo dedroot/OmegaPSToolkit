@@ -142,7 +142,7 @@
 
 ## **Credit & Copyrights**
 ```
-             The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL!
+   The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL / th300905!
                         Copyright (C) 2021-2022 © PSociety™. All rights reserved.
 
     This tool has been created and designed from scratch by Thomas Pellissier aka MyMeepSQL / th300905.
