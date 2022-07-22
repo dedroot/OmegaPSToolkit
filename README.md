@@ -117,7 +117,7 @@
   - [**License**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#license)
   - [**Features**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#features)
   - [**Installation**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#installation)
-  - [**Options of opst**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#options-of-opst=)
+  - [**Options of opst**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#options-of-opst)
   - [**Update**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#update)
   - [**Help**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#help)
 - [**Overview**](https://github.com/MyMeepSQL/OmegaPSToolkit/tree/preview_v0.0.2.20#tool-overview)
