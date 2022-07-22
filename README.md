@@ -1,7 +1,7 @@
 <!--
 
 #---[Metadata]---------------------------------------------------------------#
-#  Filename ~ README.MD                   [Update: 2022-07-22 | 4:37  - PM]  #
+#  Filename ~ README.MD                   [Update: 2022-07-22 | 4:40  - PM]  #
 #---[Info]-------------------------------------------------------------------#
 #  A long description of OmegaPSToolkit                                      #
 #  Language  ~  Markdown                                                     #
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md"
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md">
     <img src="https://img.shields.io/badge/opst%20(CLA,%20Command%20Line%20Arguments)%20(the%20main%20command)%20version-0.0.0.78-brightgreen?style=for-the-badge" alt="opst's version">
   </a>
   <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md">
@@ -85,16 +85,10 @@
 
 <p align="center">
  <img src="https://img.shields.io/badge/Release%20 status-In%20Development-yellow?style=for-the-badge" alt="Release status">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Supported%20OS-Linux-brightgreen?style=for-the-badge" alt="Supported OS">
-</p>
-
-<p align="center">
-  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/test_v1/LICENSE">
-    <img src="https://img.shields.io/badge/Licence-GNU%20GPL--3.0-important?style=for-the-badge" alt="Licence">
-  </a>
+ <img src="https://img.shields.io/badge/Supported%20OS-Linux-brightgreen?style=for-the-badge" alt="Supported OS">
+ <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/test_v1/LICENSE">
+   <img src="https://img.shields.io/badge/Licence-GNU%20GPL--3.0-important?style=for-the-badge" alt="Licence">
+ </a>
 </p>
 
 <p align="center">
