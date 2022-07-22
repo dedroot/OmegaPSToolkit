@@ -1,7 +1,7 @@
 <!--
 
 #---[Metadata]---------------------------------------------------------------#
-#  Filename ~ README.MD                   [Update: 2022-07-22 | 10:29 - PM]  #
+#  Filename ~ README.MD                   [Update: 2022-07-22 | 10:33 - PM]  #
 #---[Info]-------------------------------------------------------------------#
 #  A long description of OmegaPSToolkit                                      #
 #  Language  ~  Markdown                                                     #
@@ -27,15 +27,7 @@
 #  with this program; if not, write to the Free Software Foundation, Inc.,   #
 #  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.               #
 #----------------------------------------------------------------------------#
-
 -->
-
-```
-         The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL / th300905!                         
-                         Copyright (C) 2021-2022 © PSociety™. All rights reserved.   
-                         
-     This tool has been created and designed from scratch by Thomas Pellissier aka MyMeepSQL / th300905.
-```
 
 ----
  <pre>     ____                                       _____     _____   _______                _   _   _   
@@ -53,8 +45,6 @@
 
 ----
 
-
-  
 <p align="center">
   <a href="https://github.com/MyMeepSQL">
     <img src="https://img.shields.io/badge/Made%20by-Thomas%20Pellissier-informational?style=for-the-badge" alt="Made by">
@@ -148,10 +138,10 @@
 
 ## **Credit & Copyrights**
 ```
-   The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL / th300905!
-                        Copyright (C) 2021-2022 © PSociety™. All rights reserved.
-
-    This tool has been created and designed from scratch by Thomas Pellissier aka MyMeepSQL / th300905.
+         The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL / th300905!                         
+                         Copyright (C) 2021-2022 © PSociety™. All rights reserved.   
+                         
+     This tool has been created and designed from scratch by Thomas Pellissier aka MyMeepSQL / th300905.
 ```
 ## **Changelogs**
 All new changes compared to _**OmegaPSToolkit**_ can be found _[here](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/test_v1/CHANGLOG.md)_.
