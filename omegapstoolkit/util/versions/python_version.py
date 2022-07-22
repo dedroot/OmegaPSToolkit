@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 #---[Metadata]--------------------------------------------------------------#
-#  Filename ~ python_version.py           [Created: 2022-05-25 | 17:56 PM]  #
-#                                         [Update: 2022-05-25 | 17:56 PM]   #
+#  Filename ~ python_version.py         [Created: 2022-05-25 | 17:56 - PM]  #
+#                                       [Update:  2022-07-22 | 5:13  - PM]  #
 #---[Info]------------------------------------------------------------------#
 #  {The OmegaPSToolkit is a product of PSociety™ by MyMeepSQL}              #
 #                                                                           #
