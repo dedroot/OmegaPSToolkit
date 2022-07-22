@@ -1,7 +1,7 @@
 <!--
 
 #---[Metadata]--------------------------------------------------------------#
-#  Filename ~ CHANGLOG.MD                [Update: 2022-07-22 | 4:39  - PM]  #
+#  Filename ~ CHANGLOG.MD                [Update: 2022-07-22 | 10:41 - PM]  #
 #---[Info]------------------------------------------------------------------#
 #  {The OmegaPSToolkit is a product of PSociety™ by MyMeepSQL}              #
 #                                                                           #
@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/Codename-MyMeepSQL%20/%20th300905-informational?style=for-the-badge" alt="Codename">
   </a>
   <a href="https://github.com/PentestSociety-PSociety">
-    <img src="https://img.shields.io/badge/Owner-©%20PSociety™-informational?style=for-the-badge" alt="Owner">
+    <img src="https://img.shields.io/badge/Owner-©%20PSociety™%20(MyMeepSQL)-informational?style=for-the-badge" alt="Owner">
   </a>
 </p>
 
@@ -83,6 +83,21 @@
   </a>
   <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md">
     <img src="https://img.shields.io/badge/opstinstall%20version-v2.2-success?style=for-the-badge" alt="opstinstall's version">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/stargazers">
+    <img src="https://img.shields.io/github/stars/MyMeepSQL/OmegaPSToolkit?style=for-the-badge&color=orange" alt="Stars">
+  </a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/network/members">
+    <img src="https://img.shields.io/github/forks/MyMeepSQL/OmegaPSToolkit?color=cyan&style=for-the-badge&color=purple" alt="Forks">
+  </a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/watchers">
+    <img src="https://img.shields.io/github/watchers/MyMeepSQL/OmegaPSToolkit?color=cyan&style=for-the-badge&color=purple" alt="Watchers">
+  </a>
+  <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/issues">
+    <img src="https://img.shields.io/github/issues/MyMeepSQL/OmegaPSToolkit?color=red&style=for-the-badge" alt="Issues">
   </a>
 </p>
 
