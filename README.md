@@ -137,10 +137,10 @@
 * This tool is for educational purposes only, the use of **OmegaPSToolkit** on a target without its consent is totally **illegal!** I will not take any responsibility if this program is used explicitly
 ## **Credit & Copyrights**
 ```
-         The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL / th300905!
-                         Copyright (C) 2021-2022 © PSociety™. All rights reserved.
+         The OmegaPSToolkit is a product of PSociety™ by Thomas Pellissier aka MyMeepSQL !
+                     Copyright (C) 2021-2022 © PSociety™. All rights reserved.
 
-     This tool has been created and designed from scratch by Thomas Pellissier aka MyMeepSQL / th300905.
+     This tool has been created and designed from scratch by Thomas Pellissier aka MyMeepSQL.
 ```
 ## **Changelogs**
 All new changes compared to _**OmegaPSToolkit**_ can be found _[here](https://github.com/MyMeepSQL/OmegaPSToolkit/blob/test_v1/CHANGLOG.md)_.
@@ -173,15 +173,13 @@ cd OmegaPSToolkit
 
 # To install all dependencies that OmegaPSToolkit must have, run the opstinstall with:
 python3 opst.py -i
-## Or:
-python3 opst.py --install
+## Or: python3 opst.py --install
 ## Once installed, you can run the 'opst' command anywhere in the terminal (you can run OPST anywhere (tell me if a problem appears).
 
 # To install all PIP's packages and install the OmegaPSToolkit package  (you can run OPST anywhere (tell me if a problem appears), 
 # run :
 sudo opst -s
-## Or:
-sudo opst --setup
+## Or: sudo opst --setup
 
 # Run the opstconsole with (you can run 'opst' anywhere (tell me if a problem appears)):
 sudo opst -c
@@ -191,15 +189,17 @@ sudo opst --console
 ## Options of *opst*
 All option avalable for the **opst** command (the main comand):
 ```
- ______  ______ _______ _______   OmegaPSToolkit CLA version: 0.0.0.78
+ _______ ______ _______ _______   OmegaPSToolkit CLA (opst) version: 0.0.0.78
 |       |   __ \     __|_     _|  Coded by MyMeepSQL for © PSociety™
 |   -   |    __/__     | |   |    A massive penetration testing toolkit
 |_______|___|  |_______| |___|    https://github.com/MyMeepSQL/OmegaPSToolkit
+        
+opst: info: usage: opst [--help] [OPTION] [-h]
 
-Usage: opst [--help] [OPTION] [-h]
+OmegaPSToolkit (OPST) is a toolkit that brings together penetration testing tools such as wireless tools, web tools, password cracking tools, etc.
 
-Options:
-  -i, --install                                               install all depencies for OmegaPSToolkit (opstinstall).
+Main options:
+  -i, --install                                               install all depencies for OmegaPSToolkit (opstinstall)
   -s, --setup                                                 install all PIP package for OmegaPSToolkit (opstsetup)
   -c, --console                                               start the console (opstconsole)
   -u, --update                                                update OmegaPSToolkit (opstupdate)
@@ -209,10 +209,14 @@ Additional options:
   -q, --quiet                                                 prevent header from displaying
 
 Information options:
-  --info [low|full]                                           show some information about OmegaPSToolkit and exit (opstinfo) (default: low)
-  -h                                                          show more help for each option and exit
+  --info [small|full]                                         show some information about OmegaPSToolkit and exit (opstinfo) (default: small)
+  -h                                                          show more help for avalabe option and exit
   --help                                                      show this help message and exit
   --version [main|console|cli|install|update|setup|info|all]  show program's version and exit (default: main)
+
+Report all bugs to <thomas.pellissier@outlook.com> or open an issue at <https://github.com/MyMeepSQL/OmegaPSToolkit/issues>.
+OmegaPSToolkit (OPST), Copyright (C) 2021-2022 © PSociety™. All rights reserved.
+By Thomas Pellissier aka MyMeepSQL.
   ```
  
 ## **Update**
@@ -221,8 +225,7 @@ To download and install the latest version of opst, opstconsole, opstupdate, ops
 Run the "opstupdate" with:
 ```bash
 sudo opst -u
-# Or:
-sudo opst --update
+# Or: sudo opst --update
 ```
 ## **Information about OmegaPSToolkit**
 If you want all informations about OmegaPSToolkit and authors' and with other information like the version of each command, what is your OS and other informations.
