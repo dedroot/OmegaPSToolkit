@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Made%20by-Thomas%20Pellissier-informational?style=for-the-badge" alt="Made by">
   </a>
   <a href="https://github.com/MyMeepSQL">
-    <img src="https://img.shields.io/badge/Codename-MyMeepSQL%20/%20th300905-informational?style=for-the-badge" alt="Codename">
+    <img src="https://img.shields.io/badge/Codename-MyMeepSQL-informational?style=for-the-badge" alt="Codename">
   </a>
   <a href="https://github.com/PentestSociety-PSociety">
     <img src="https://img.shields.io/badge/Owner-©%20PSociety™%20(MyMeepSQL)-informational?style=for-the-badge" alt="Owner">
@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md">
-    <img src="https://img.shields.io/badge/opst%20(CLA,%20Command%20Line%20Arguments)%20(the%20main%20command)%20version-0.0.0.78-brightgreen?style=for-the-badge" alt="opst's version">
+    <img src="https://img.shields.io/badge/opst%20(CLA,%20the%20main%20command)%20version-0.0.0.78-brightgreen?style=for-the-badge" alt="opst's version">
   </a>
   <a href="https://github.com/MyMeepSQL/OmegaPSToolkit/blob/main/CHANGLOG.md">
     <img src="https://img.shields.io/badge/opstconsole%20version-0.0.2.20-brightgreen?style=for-the-badge" alt="opstconsole's version">
